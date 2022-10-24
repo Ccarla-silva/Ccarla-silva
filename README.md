@@ -2,7 +2,7 @@
 - 👋 Olá, meu nome é @Ccarla-silva
 - [+1] Meu email de contato é carla.silva19@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a programar linguagens.
-- 🌱Eu estou aprendendo a programar recentimente as lińguagens de JaveScript e Scratch 
+- 🌱Eu estou aprendendo a programar recentimente a linguagem da JavaScript e Scratch 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
